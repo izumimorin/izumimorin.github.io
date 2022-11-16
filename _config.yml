@@ -24,7 +24,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: solarized
+theme: minima
 
 plugins:
  - jekyll-feed
