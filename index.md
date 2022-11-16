@@ -1,9 +1,10 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
+title: "Izumi的个人主页（建设中）"
+---
+
+还没建完，不知道要多久。
+
+电脑键盘的H键坏了，烦哦
+
 ---
