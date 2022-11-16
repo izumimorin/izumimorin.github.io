@@ -7,5 +7,10 @@ title: "主页"
 
 电脑键盘的H键坏了，烦哦
 
-友链：[HAKULA†CHANNEL](https://hakula.xyz)  [依田萌绘的故事屋](https://yoro.xyz) 
+---
+
+友链：[HAKULA†CHANNEL][hakula] [依田萌绘的故事屋][yoro]
+
+[hakula]: https://hakula.xyz
+[yoro]: https://yoro.xyz
 ---
