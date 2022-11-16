@@ -14,7 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    - { platform: telegram,       user_url: "https://t.me/jekyll" }
+    - { platform: Weibo,       user_url: "https://weibo.com/u/5679319503" }
+    - { platform: bilibili,       user_url: "https://space.bilibili.com/22617205" }
     - { platform: twitter,        user_url: "https://twitter.com/izumi_ayaki" }
     - { platform: youtube,        user_url: "https://www.youtube.com/channel/UCSKRFx1z9myyUwhXQepUlAg" }
 
