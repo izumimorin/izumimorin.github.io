@@ -9,7 +9,9 @@ title: "主页"
 
 ---
 
-友链：[HAKULA†CHANNEL][hakula] [依田萌绘的故事屋][yoro]
+友链：      
+[HAKULA†CHANNEL][hakula]     
+[依田萌绘的故事屋][yoro]      
 
 [hakula]: https://hakula.xyz
 [yoro]: https://yoro.xyz
