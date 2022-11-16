@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Izumi的个人主页（建设中）"
+title: "主页"
 ---
 
 还没建完，不知道要多久。
