@@ -11,6 +11,8 @@ title: "主页"
 
 很多人的个人网站都会有评论功能，不过我不会搞也不太想搞，所以评论功能的话大概以后也不会有。
 
+想了解一些我本人的信息的话请点击右上角的[关于我][About]
+
 ---
 
 友链：      
@@ -19,4 +21,5 @@ title: "主页"
 
 [hakula]: https://hakula.xyz
 [yoro]: https://yoro.xyz
+[About]: https://izumimorin.github.io/about
 ---
