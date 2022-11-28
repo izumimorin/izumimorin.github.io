@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "文字AVG个人向评分"
+title:  "AVG个人向评分"
 categories: avg
 permalink: /avg_rank
 ---
