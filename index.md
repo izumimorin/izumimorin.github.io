@@ -6,8 +6,7 @@
 
 说到底这个网站还是直接fork的别人的模板，让我自己建一个的话我可是完全没有相关知识的啊！（泪）
 
-想了解一些我本人的信息的话请点击右上角的[关于我][About]~~（直接点这里的也可以）~~
-
+想了解一些我本人的信息的话请点击右上角的关于我
 ---
 
 友链：      
@@ -16,5 +15,4 @@
 
 [hakula]: https://hakula.xyz
 [yoro]: https://yoro.xyz
-[About]: https://izumimorin.github.io/about
 ---
