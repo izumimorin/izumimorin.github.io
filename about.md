@@ -3,16 +3,29 @@ layout: page
 title: 关于我
 permalink: /about/
 ---
+喜欢打游戏的普通大学生，玩的最多的是音游和Galgame以及JRPG。买的游戏比玩的多，问就是摸了。
 
-（暂无个人简介）
+音游主要玩pop'n music，其他的看心情偶尔会玩一玩。
+
+Gal入坑很晚，很多名作都没有打过，什么类型的都玩，大概没什么忌口。
+
+比较喜欢街机游戏，虽然没怎么了解过日本街机文化但还是喜欢。也有在收集一些旧游戏和旧主机。
+
+动画看的不多，不太能追得下去新番，看动画属于某几天突然打了鸡血似的连看好几部然后大半年一看不看的那种。
+
+有时候会看漫画和轻小说，但基本上是看了动画才回去看原作。
+
+很多经典作品都没接触过，但去补的愿望也不是那么强烈。很十分希望自己能有无穷的精力和时间。
+
+自认为是陰キャラ。
+
+一年365天一天24小时都在思考我为什么没有钱。 
 
 相关链接：      
 [微博][weibo]      
 [B站][bili]      
-[Bangumi][bgm]      
-[推特（惨遭冻结中）][twi]      
+[Bangumi][bgm]         
 
 [weibo]: https://weibo.com/u/5679319503
 [bili]: https://space.bilibili.com/22617205
 [bgm]: https://bangumi.tv/user/izumimorin
-[twi]: https://twitter.com/izumi_ayaki
