@@ -2,7 +2,7 @@
 layout: post
 title:  "AVG个人向评分"
 categories: avg
-permalink: /avg_rank
+permalink: /avg/rank
 ---
 明明没推过多少作品却想搞一个评分表。**评分完全主观**，因为我不想搞评论栏所以有不同意见请憋着（
 
