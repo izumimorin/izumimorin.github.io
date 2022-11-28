@@ -11,9 +11,8 @@ permalink: /avg_rank
 整数部分的确定大概有一个自己内心的凭感觉的标准，小数部分通过同类型之间的横向对比而得出。
 
 ---
+评分表由Google表格支持，正常显示**需要科学上网**。如需排序等功能请[点击][table1]
 
 <iframe height="750" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi-BLEn-vMtMNNj2bPFZ0ChXSVLCW7D3e49ZUeYHRw4FPrrA1R1AaZoaE95oRwruXZF9sOO0Mxr61t/pubhtml?widget=true&amp;headers=false"></iframe>
-
-[原链接][table1]（Google表格），需要科学上网
 
 [table1]: https://docs.google.com/spreadsheets/d/1fDHvHhN6lrn3G-G7En0tdUHuTllaTrtYf7M7UE7jKh0/edit#gid=1237096488
