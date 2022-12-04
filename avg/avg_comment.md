@@ -10,7 +10,7 @@ permalink: /avg/comment
 
 ~~看看以前写的评论，“啊，那个时候还真是年轻啊”~~
 
-AVG评分表请点击[此处](https://izumimorin.github.io/avg/rank)
+AVG评分表请点击[此处](https://izumimorin.xyz/avg/rank)
 
 ---
 ### 終ノ空 remake
