@@ -27,11 +27,13 @@ Gal入坑很晚，很多名作都没有打过，什么类型的都玩，大概�
 
 相关链接：      
 [微博][weibo]      
-[B站][bili]      
+[B站大号][bili1]      
+[B站小号][bili2]      
 [Bangumi][bgm]         
 [Twitter][twi]
 
 [weibo]: https://weibo.com/u/5679319503
-[bili]: https://space.bilibili.com/22617205
+[bili1]: https://space.bilibili.com/22617205
+[bili2]: https://space.bilibili.com/613745004
 [bgm]: https://bangumi.tv/user/izumimorin
 [twi]: https://twitter.com/Ayaki_Izumi
