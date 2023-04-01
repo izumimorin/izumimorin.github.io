@@ -13,7 +13,7 @@ Gal入坑很晚，很多名作都没有打过，什么类型的都玩，大概�
 
 坚定的实体游戏党，不过要是遇上超大的价格悬殊还是会败给价格。没有什么特别喜欢的游戏类型，属于杂食玩家，但不是很喜欢平台跳跃游戏。
 
-不玩二次元手游，吹的人再多也不玩。但是碧蓝航线一直没删，偶尔会回去玩两天，毕竟里面有我老婆。
+不玩二次元手游，吹的人再多也不玩。但是一直有在关注碧蓝航线的动态，毕竟里面有我老婆。
 
 动画看的不多，不太能追得下去新番，看动画属于某几天突然打了鸡血似的连看好几集然后大半年一看不看的那种。
 
@@ -26,14 +26,12 @@ Gal入坑很晚，很多名作都没有打过，什么类型的都玩，大概�
 一年365天一天24小时都在思考我为什么没有钱。 
 
 相关链接：      
-[微博][weibo]      
-[B站大号][bili1]      
-[B站小号][bili2]      
-[Bangumi][bgm]         
-[Twitter][twi]
+[微博](https://weibo.com/u/5679319503)
 
-[weibo]: https://weibo.com/u/5679319503
-[bili1]: https://space.bilibili.com/22617205
-[bili2]: https://space.bilibili.com/613745004
-[bgm]: https://bangumi.tv/user/izumimorin
-[twi]: https://twitter.com/Ayaki_Izumi
+[B站大号](https://space.bilibili.com/22617205)（看视频、发视频、直播用）
+
+[B站小号](https://space.bilibili.com/613745004)（社交互fo用）
+
+[Bangumi](https://bangumi.tv/user/izumimorin)
+
+[Twitter](https://twitter.com/Ayaki_Izumi)
