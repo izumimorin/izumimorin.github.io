@@ -8,7 +8,7 @@
 
 想了解一些我本人的信息的话请点击右上角或此处的的[关于我](izumimorin.github.io/abuot/)
 
-个人AVG评分请点击右上角或此处的[AVG个人向评分](izumimorin.github.io/avg/)
+本人的糊逼AVG评分请点击右上角或此处的[AVG个人向评分](izumimorin.github.io/avg/)
 
 ---
 
