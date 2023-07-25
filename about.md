@@ -35,6 +35,6 @@ Gal入坑很晚，很多名作都没有打过，什么类型的都玩，大概�
 
 [Bangumi大号](https://bangumi.tv/user/izumimorin)
 
-[Bangumi小号](https://bangumi.tv/user/izumimorin0) （仅用于整理玩过的非Gal的游戏）
+[Bangumi小号](https://bangumi.tv/user/izumimorin0) （仅用于整理非Gal的游戏）
 
 [Twitter](https://twitter.com/Ayaki_Izumi)
