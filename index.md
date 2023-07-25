@@ -12,12 +12,11 @@
 
 ---
 
-擅自加的友链：      
-[HAKULA†CHANNEL][hakula]     
-[依田萌绘的故事屋][yoro]    
-[大慶園八番街][yy]
+擅自加的友链：
 
-[hakula]: https://hakula.xyz/
-[yoro]: https://yoro.xyz/
-[yy]:https://yysb.moe/
----
+[HAKULA†CHANNEL](https://hakula.xyz/)
+
+[依田萌绘的故事屋](https://yoro.xyz/)
+
+[大慶園八番街](https://yysb.moe/)
+
