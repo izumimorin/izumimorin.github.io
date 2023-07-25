@@ -6,9 +6,9 @@
 
 说到底这个网站还是直接fork的别人的模板，让我自己完全从头建一个的话我可是完全没有相关知识的啊！（泪）
 
-想了解一些我本人的信息的话请点击右上角或此处的的[关于我](izumimorin.github.io/abuot/)
+想了解一些我本人的信息的话请点击右上角或此处的的[关于我](izumimorin.github.io/about)
 
-本人的糊逼AVG评分请点击右上角或此处的[AVG个人向评分](izumimorin.github.io/avg/)
+本人的糊逼AVG评分请点击右上角或此处的[AVG个人向评分](izumimorin.github.io/avg)
 
 ---
 
