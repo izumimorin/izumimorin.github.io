@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于我
-permalink: /about/
+permalink: /about
 ---
 喜欢打游戏的普通大学生，性别男。玩的最多的是音游和Galgame。买的游戏比玩的多，问就是摸了。
 
