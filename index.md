@@ -10,7 +10,7 @@
 
 想了解一些我本人的信息的话请点击右上角或此处的的[【关于我】](izumimorin.github.io/about)
 
-本人的糊逼AVG评分请点击右上角或此处的[【AVG个人向评分】](izumimorin.github.io/avg)
+本人的糊逼AVG评分请点击右上角或此处的[【AVG个人向评分】](izumimorin.github.io/avg)。评分最后更新于`23.09.02`，短评最后更新于`23.07.02`。
 
 ---
 
