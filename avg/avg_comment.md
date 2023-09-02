@@ -12,7 +12,7 @@ permalink: /avg/comment
 
 短评完全是在兴头上凭感觉和心情写的，如有不同意见因为我看不到所以请憋着，实在憋不住可以给我发邮件（
 
-AVG评分表请点击[此处](https://izumimorin.xyz/avg)
+AVG评分表请点击[【此处】](https://izumimorin.xyz/avg)
 
 ---
 ### 天使☆騒々 RE-BOOT!
