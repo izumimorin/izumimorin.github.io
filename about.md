@@ -25,7 +25,9 @@ Gal入坑很晚，很多名作都没有打过，什么类型的都玩，大概�
 
 一年365天一天24小时都在思考我为什么没有钱。 
 
-**相关链接：**
+**相关链接**
+
+*社交平台*
 
 微博：[Izumi_Ayaki](https://weibo.com/u/5679319503)
 
@@ -36,3 +38,13 @@ Bangumi：[Izumi_Ayaki](https://bangumi.tv/user/izumimorin) & [小猫](https://b
 Twitter：[和泉あやき](https://twitter.com/Ayaki_Izumi)
 
 AcFun：[Izumi_Ayaki](https://www.acfun.cn/u/9856107)
+
+*游戏平台*
+
+RetroAchievements：[izumimorin](https://retroachievements.org/user/izumimorin)
+
+Steam：[izumimorin](https://steamcommunity.com/id/izumimorin/)
+
+PSN：izumimorin-
+
+Xbox：[izumimorin3596](https://account.xbox.com/en-US/Profile?gamerTag=izumimorin3596)
