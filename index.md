@@ -12,7 +12,7 @@
 
 用Google表格整理了一下自己购入的实体版游戏，点击[【这里】](https://docs.google.com/spreadsheets/d/1AMEp5xzmPaDwRYwGishtHLkdQUnRpqaYk1bobezuWNw/edit?usp=sharing)一键查成分
 
-本人的糊逼AVG评分请点击右上角或此处的[【AVG个人向评分】](izumimorin.github.io/avg)。评分最后更新于`23.12.28`，短评最后更新于`23.09.24`。
+本人的糊逼AVG评分请点击右上角或此处的[【AVG个人向评分】](izumimorin.github.io/avg)。评分最后更新于`24.01.03`，短评最后更新于`23.09.24`。
 
 ---
 
