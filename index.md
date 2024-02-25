@@ -16,7 +16,7 @@
 
 ---
 
-擅自加的友链：
+擅自加的友链（添加日期顺）：
 
 [HAKULA†CHANNEL](https://hakula.xyz/)
 
