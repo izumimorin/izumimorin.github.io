@@ -10,7 +10,7 @@
 
 想了解一些我本人的信息的话请点击右上角或此处的的[【关于我】](izumimorin.github.io/about)
 
-用Google表格整理了一下自己购入的实体版游戏，点击[【这里】](https://docs.google.com/spreadsheets/d/1AMEp5xzmPaDwRYwGishtHLkdQUnRpqaYk1bobezuWNw/edit?usp=sharing)一键查成分
+用Google表格整理了一下自己购入的实体版游戏和CD等物品，点击[【这里】](https://docs.google.com/spreadsheets/d/1AMEp5xzmPaDwRYwGishtHLkdQUnRpqaYk1bobezuWNw/edit?usp=sharing)一键查成分
 
 本人的糊逼AVG评分请点击右上角或此处的[【AVG个人向评分】](izumimorin.github.io/avg)。评分最后更新于`24.04.26`，短评最后更新于`23.09.24`。
 
