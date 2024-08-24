@@ -8,4 +8,4 @@ permalink: /collection
 
 表格原地址点击[【这里】](https://docs.google.com/spreadsheets/d/1AMEp5xzmPaDwRYwGishtHLkdQUnRpqaYk1bobezuWNw)
 
-<iframe height="750" width="100%" src="https://docs.google.com/spreadsheets/d/1AMEp5xzmPaDwRYwGishtHLkdQUnRpqaYk1bobezuWNw"></iframe>
+<iframe height="750" width="100%" src="https://docs.google.com/spreadsheets/d/1AMEp5xzmPaDwRYwGishtHLkdQUnRpqaYk1bobezuWNw/pubhtml?widget=true&amp;headers=false"></iframe>
