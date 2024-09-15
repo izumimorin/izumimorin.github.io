@@ -12,15 +12,13 @@
 
 用Google表格整理了一下自己购入的实体版游戏和CD等物品，点击[**这里**](izumimorin.github.io/collection)一键查成分
 
-本人的糊逼AVG评分请点击右上角或此处的[**AVG个人向评分**](izumimorin.github.io/avg)。评分最后更新于`24.04.26`，[短评](izumimorin.github.io/avg/comment)最后更新于`23.09.24`。
+本人的糊逼AVG评分请点击右上角或此处的[**AVG个人向评分**](izumimorin.github.io/avg)。评分最后更新于`24.09.13`，[短评](izumimorin.github.io/avg/comment)最后更新于`24.09.15`。
 
 ---
 
 擅自加的友链（添加日期顺）：
 
 [HAKULA†CHANNEL](https://hakula.xyz/)
-
-[依田萌绘的故事屋](https://yoro.xyz/)
 
 [大慶園八番街](https://yysb.moe/)
 
