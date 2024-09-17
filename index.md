@@ -20,6 +20,8 @@
 
 [HAKULA†CHANNEL](https://hakula.xyz/)
 
+[依田萌绘的故事屋](https://yoro.xyz/)
+
 [大慶園八番街](https://yysb.moe/)
 
 [萝莉御姐互推最高-__-+](https://djlain.com/)
