@@ -8,9 +8,9 @@
 
 评论功能我不会搞也不想搞，所以现在没有以后大概也不会有。实在想联系我请通过网站主页最下面的邮箱并注明来意。
 
-想了解一些我本人的信息的话请点击右上角或此处的的[**关于我**](izumimorin.github.io/about)
+想了解一些我本人的信息的话请点击右上角或此处的[**关于我**](izumimorin.github.io/about)。
 
-用Google表格整理了一下自己购入的实体版游戏和CD等物品，点击[**这里**](izumimorin.github.io/collection)一键查成分
+整理了一下自己购入的实体版游戏和CD等物品，点击[**这里**](izumimorin.github.io/collection)一键查成分。
 
 本人的糊逼AVG评分请点击右上角或此处的[**AVG个人向评分**](izumimorin.github.io/avg)。部分游戏的短评请点击[**这里**](izumimorin.github.io/avg/comment)。
 
