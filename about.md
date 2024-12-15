@@ -4,7 +4,7 @@ title: 关于我
 permalink: /about
 ---
 
-`本页面最后更新于24.08.25`
+`本页面最后更新于24.12.16`
 
 喜欢打游戏的普通人，性别男。玩的最多的是音游和文字AVG。买的游戏比玩的多，问就是摸了。
 
@@ -34,6 +34,14 @@ permalink: /about
 
 ---
 
+关于网名，**Izumi_Ayaki**的话，Izumi的部分直接取自我的本名，基本上从我混圈当二次元开始就一直在用了。Ayaki的部分是网上随便找的日本名字生成器随机生成的，似乎可以写成*綾紀*。本来是大号用Izumi小号用Ayaki，但后来发现Izumi可以写作日本的姓氏*和泉*，就把这两个名字合成了一个，相当于给自己起了一个日本名字吧（虽然綾紀似乎是女性名字）。**小猫**则是最开始有一个“我是小猫”的表情包，有一段时间我经常发那个表情包，然后干脆就把小号的ID改成了小猫，以前给小号用的Ayaki就和Izumi合成了一个名字。
+
+称呼的话，由于历史原因叫我Izumi的人更多，其次是小猫，叫我Ayaki的完全没有。不过本来名字就是一个称谓，管我叫哪个名字都可以。
+
+题外话，pop'n music 16代有一个名为いずみさん的角色，人设是开咖啡店的大姐姐。
+
+---
+
 **相关链接**
 
 *社交平台*
@@ -44,7 +52,7 @@ bilibili：[Izumi_Ayaki](https://space.bilibili.com/22617205) & [小猫Official]
 
 Bangumi：[Izumi_Ayaki](https://bangumi.tv/user/izumimorin) & [小猫](https://bangumi.tv/user/izumimorin0) 
 
-Twitter：[和泉あやき](https://twitter.com/Ayaki_Izumi)
+Twitter：[いずみさん](https://twitter.com/Ayaki_Izumi)
 
 *游戏平台*
 
