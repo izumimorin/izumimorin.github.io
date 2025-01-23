@@ -58,4 +58,4 @@ Steam：[izumimorin](https://steamcommunity.com/id/izumimorin/)
 
 PSN：izumimorin-
 
-Xbox：[izumimorin3596](https://account.xbox.com/en-US/Profile?gamerTag=izumimorin3596)
+Xbox：[izumimorin3596](https://www.xbox.com/ja-JP/play/user/izumimorin3596)
