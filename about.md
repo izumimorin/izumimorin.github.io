@@ -46,17 +46,11 @@ permalink: /about
 
 **相关链接**
 
-*社交平台*
-
-微博：[Izumi_Ayaki](https://weibo.com/u/5679319503)
-
 bilibili：[Izumi_Ayaki](https://space.bilibili.com/22617205) & [小猫Official](https://space.bilibili.com/613745004)
 
 Bangumi：[Izumi_Ayaki](https://bangumi.tv/user/izumimorin) & [小猫](https://bangumi.tv/user/izumimorin0) 
 
 Twitter：[いずみさん](https://twitter.com/Ayaki_Izumi)
-
-*游戏平台*
 
 RetroAchievements：[izumimorin](https://retroachievements.org/user/izumimorin)
 
