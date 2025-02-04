@@ -16,7 +16,7 @@
 
 ---
 
-### 擅自加的友链（添加日期顺）
+### 擅自加的友链（按添加日期排序）
 
 [HAKULA†CHANNEL](https://hakula.xyz/)
 
@@ -27,3 +27,5 @@
 [萝莉御姐互推最高-__-+](https://djlain.com/)
 
 [松松de小屋](https://ssdh233.me/)
+
+[叔音OKATU的不正常玩家避难所管理室](https://www.soukin.net/)
