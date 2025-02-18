@@ -8,6 +8,10 @@
 
 评论功能我不会搞也不是很想搞，想联系我的请通过右上角“关于我”里记载的外部平台链接并说明来意。
 
+このウェブサイトは中国語のみ使用しています。後日に英語や日本語で対応するの予定がありません。
+
+This website is only written in Chinese, and there is no plan to support English or Japaness. 
+
 ---
 
 想了解一些我本人的信息的话请点击右上角或此处的[**关于我**](izumimorin.github.io/about)。
