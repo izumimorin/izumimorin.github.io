@@ -8,7 +8,7 @@
 
 评论功能我不会搞也不是很想搞，想联系我的请通过右上角“关于我”里记载的外部平台链接并说明来意。
 
-このサイトは中国語のみ使用しています。後日に英語や日本語で対応するの予定がありません。
+このサイトは中国語のみ使用しています。後日にも英語や日本語で対応するの予定がありません。
 
 This website is only written in Chinese, and there is no plan to support English or Japaness. 
 
