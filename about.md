@@ -6,7 +6,7 @@ permalink: /about
 
 `本页面最后更新于25.06.09`
 
-普通人，男性，2000年生人，学生，目前暂居日本。
+普通人，男性，学生，目前暂居日本。
 
 母语为中文。会使用一点日文和英文，但水平很低。其他外语一窍不通。
 
@@ -36,7 +36,7 @@ permalink: /about
 
 ---
 
-关于网名，**Izumi_Ayaki**的话，Izumi的部分直接取自我的本名，基本上从我混圈当二次元开始就一直在用了。Ayaki的部分则是网上随便找的日本名字生成器随机生成的。由于pop'n music里有一位叫**いずみさん**的角色，所以在有些地方我也会用这个名字。**小猫**则是觉得叫这个名字会很好玩，而且不管是Izumi还是Ayaki都不是一个在中文语境下叫得特别顺口的名字。**izumimorin**则是“Izumi”和我曾经喜欢的声优三森铃子的昵称“Mimorin”的组合，由于在各个网站起这个昵称的话基本不会重名，因此这个名字使用率也相当高。目前叫我Izumi和叫我小猫的人基本上一样多，叫我Ayaki的则完全没有。不过本来名字就是一个称谓，管我叫哪个名字都可以，知道我本名的叫我本名也行。
+关于网名，**Izumi_Ayaki**的话，Izumi的部分直接取自我的本名，基本上从我混圈当二次元开始就一直在用了。Ayaki的部分则是网上随便找的日本名字生成器随机生成的。由于pop'n music里有一位叫**いずみさん**的角色，所以在有些地方我偶尔也会用这个名字。**小猫**则是某一天突然觉得叫这个名字会很好玩，而且不管是Izumi还是Ayaki都不是一个在中文语境下叫得特别顺口的名字。**izumimorin**则是“Izumi”和我曾经喜欢的声优三森铃子的昵称“Mimorin”的组合，由于在各个网站起这个昵称的话基本不会重名，因此这个名字使用率也相当高。目前叫我小猫的人最多，Izumi次之，Ayaki的则完全没有。不过本来名字就是一个称谓，管我叫哪个名字都可以，知道我本名的叫我本名也行。
 
 ---
 
@@ -46,7 +46,7 @@ bilibili：[Izumi_Ayaki](https://space.bilibili.com/22617205) & [小猫Official]
 
 Bangumi：[Izumi_Ayaki](https://bangumi.tv/user/izumimorin) & [小猫](https://bangumi.tv/user/izumimorin0) 
 
-Twitter：[いずみさん](https://twitter.com/Ayaki_Izumi)
+X（旧Twitter）：[い](https://x.com/_iill_illi_iil_)
 
 RetroAchievements：[izumimorin](https://retroachievements.org/user/izumimorin)
 
