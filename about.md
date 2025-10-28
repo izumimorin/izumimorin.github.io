@@ -52,6 +52,6 @@ RetroAchievements：[izumimorin](https://retroachievements.org/user/izumimorin)
 
 Steam：[izumimorin](https://steamcommunity.com/id/izumimorin/)
 
-PSN：izumimorin-
+PSN：[izumimorin-](https://psnine.com/psnid/izumimorin-)
 
 Xbox：[izumimorin3596](https://www.xbox.com/ja-JP/play/user/izumimorin3596)
