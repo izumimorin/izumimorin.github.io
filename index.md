@@ -22,6 +22,10 @@ This website is only written in Chinese, and there is no plan to support English
 
 ---
 
+本站近期的重大改动：取消**AVG短评合集**，将稍具篇幅的短评拆分整理为**单独的post**，其余的删除
+
+---
+
 ### 擅自加的友链（按添加日期排序）
 
 [HAKULA†CHANNEL](https://hakula.xyz/)
