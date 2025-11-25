@@ -1,4 +1,4 @@
-`本页面最后更新于25.02.18`
+`本页面最后更新于25.11.25`
 
 跟风建了一个个人网站。随便fork了一个github page，花了一晚上弄好的。
 
@@ -18,7 +18,7 @@ This website is only written in Chinese, and there is no plan to support English
 
 整理了一下自己购入的实体版游戏和CD等物品，点击[**这里**](izumimorin.github.io/collection)一键查成分。
 
-本人的糊逼AVG评分请点击右上角或此处的[**AVG个人向评分**](izumimorin.github.io/avg)。部分游戏的短评请点击[**这里**](izumimorin.github.io/avg/comment)。
+本人的糊逼AVG评分请点击右上角或此处的[**AVG个人向评分**](izumimorin.github.io/avg)。
 
 ---
 
