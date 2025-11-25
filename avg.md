@@ -13,6 +13,4 @@ permalink: /avg
 ---
 查看需要科学上网，原表格请点击[**这里**](https://docs.google.com/spreadsheets/d/1fDHvHhN6lrn3G-G7En0tdUHuTllaTrtYf7M7UE7jKh0/edit#gid=1237096488)。
 
-[**这里**](https://izumimorin.xyz/avg/comment)整理了一些游戏的短评。暂时还没有能让我有欲望单独写一大长篇感想的游戏，~~倒不如说我也写不出来长文~~
-
 <iframe height="750" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi-BLEn-vMtMNNj2bPFZ0ChXSVLCW7D3e49ZUeYHRw4FPrrA1R1AaZoaE95oRwruXZF9sOO0Mxr61t/pubhtml?widget=true&amp;headers=false"></iframe>
