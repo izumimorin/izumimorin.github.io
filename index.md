@@ -10,17 +10,17 @@
 
 ---
 
-このサイトは中国語のみ対応しています。後日に日本語で対応する予定がありません。でも、日本語のポストを追加する可能性があります。
-
-This website is only written in Chinese, and there is no plan to support English or update some posts wrtten in English. 
-
----
-
 想了解一些我本人的信息的话请点击右上角或此处的[**关于我**](izumimorin.github.io/about)。
 
 整理了一下自己购入的实体版游戏和CD等物品，点击[**这里**](izumimorin.github.io/collection)一键查成分。
 
 本人的糊逼AVG评分请点击右上角或此处的[**AVG个人向评分**](izumimorin.github.io/avg)。
+
+---
+
+このサイトは中国語のみ対応しています。後日に日本語で対応する予定がありません。でも、日本語のポストを追加する可能性があります。
+
+This website is only written in Chinese, and there is no plan to support English or update some posts wrtten in English. 
 
 ---
 
